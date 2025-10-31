@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Etyline
 - 👀 I’m interested in music and videogames
-- 🌱 I’m currently learning programming in C
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me: IG --> @etyline9
 
